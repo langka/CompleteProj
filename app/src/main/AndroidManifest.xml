@@ -17,5 +17,4 @@
         <activity android:name=".ThreadTestActivity"/>
         <activity android:name=".HandlerTestActivity"/>
     </application>
-
 </manifest>
